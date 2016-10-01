@@ -1,0 +1,150 @@
+body {
+	background-color: #ddd;
+	padding: 0;
+	margin: 0;
+}
+
+nav {
+	background-color: #fff;
+	height: 60px;
+}
+
+.logo {
+	display: block;
+	float: left;
+	clear: right;
+	width: 146px;
+	height: 60px;
+}
+
+form {
+	padding-top: 15px;
+	box-shadow: none !important;
+}
+
+iframe {
+	margin: 10px;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.bluebutton {
+	background-color: #007aaf;
+	color: white;
+	border: 1px 1px;
+	padding: 8px;
+	border-radius: 3px;
+	font-family: Roboto, arial, sans-serif;
+}
+
+.whitebutton {
+	background-color: #fff;
+	color: #333;
+	border: 1px 1px #333;
+	padding: 8px;
+	border-radius: 3px;
+	margin-right: 10px;
+	font-family: Roboto, arial, sans-serif;
+}
+
+.search {
+	height: 25px;
+	width: 600px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+::-webkit-input-placeholder { 
+	font-size: 16px; 
+	font-family: Roboto, arial, sans-serif;
+	color: #666;
+	padding: 2px 6px;
+}
+
+aside {
+	background-color: #fff;
+	position: absolute;
+	width: 375px;
+	height: 877px;
+	top: 60px;
+	left: 650px;
+	margin: 10px 0 0 10px;
+}
+
+.thumbnails {
+	float: left;
+	clear: right;
+	padding: 15px;
+}
+
+.published-description {
+	width: 640px;
+	background-color: #fff;
+	margin-left: 10px;
+}
+
+h2 {
+	font-family: Roboto, arial, sans-serif;
+	font-size: 20px;
+	padding: 15px 10px 0 15px;
+	font-weight: normal;
+}
+
+.icon {
+	padding: 0 10px 10px 15px;
+	float: left;
+	clear: right;
+}
+
+p {
+	font-family:  Roboto, arial, sans-serif;
+	font-size: 13px;
+}
+
+.count {
+	text-align: right;
+	font-size: 19px;
+	color: #666;
+	margin: 2px 20px;
+}
+
+.options {
+	display: inline-block;
+	font-family:  Roboto, arial, sans-serif;
+	font-size: 13px;
+	padding: 0 20px;
+	color: #333;
+	font-size: 11px;
+}
+
+hr {
+	color: #333333;
+	width: 590px;
+}
+
+.intro {
+	padding: 15px;
+}
+
+.blurb {
+	overflow: auto;
+}
+
+h5 {
+	font-family:  Roboto,arial,sans-serif;
+	font-size: 14px;
+	padding-top: 10px;
+	margin: 0;
+}
+
+.descriptions {
+	overflow: auto;
+}
+
+.descriptions p {
+	font-size: 10px !important;
+	overflow: auto;
+	padding: 0;
+	margin: 0;
+}

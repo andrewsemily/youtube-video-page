@@ -1,6 +1,5 @@
-# youtube-video-page
-YouTube page focusing on displaying media elements
+Embedd images and video
 
-From the Odin Project's <a href="http://www.theodinproject.com/html5-and-css3/embedding-images-and-video" target="_blank">Curriculum</a>
+Exercise from [The Odin Project](http://www.theodinproject.com/html5-and-css3/embedding-images-and-video)
 
 View project: https://emilyandrews.github.io/youtube-video-page/
